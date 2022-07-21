@@ -1,15 +1,28 @@
 <template>
-  <hello-world />
+  <v-app>
+      <Navbar class="index" />
+      <Dashboard />
+      <Footer />
+  </v-app>
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+  import Navbar from '../components/Navbar'
+  import Dashboard from '../components/Dashboard'
+  import Footer from '../components/Footer'
 
   export default {
     name: 'Home-View',
 
     components: {
-      HelloWorld,
+      Navbar,
+      Dashboard, 
+      Footer
     },
   }
 </script>
+<style scoped>
+.index {
+  z-index: 9999;
+}
+</style>
