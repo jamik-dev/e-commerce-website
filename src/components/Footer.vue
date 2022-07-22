@@ -4,7 +4,7 @@
       <v-row>
         <v-col cols="12" sm="4">
           <v-card-text class="white--text pt-0">
-            <h3>AAE IdeaPro</h3>
+            <h3>OIK-GROUP</h3>
           </v-card-text>
           <v-card-text class="grey--text pt-0">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, id? Recusandae suscipit reprehenderit nihil nulla ratione illo.

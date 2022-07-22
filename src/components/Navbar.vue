@@ -12,7 +12,7 @@
     </v-toolbar-title>
     <v-divider vertical class="ml-5"></v-divider>
     <div style="position: absolute; margin-left: auto; margin-right: auto; left: 0; right: 0; text-align: center;">
-      <h4>AAE IdeaPro</h4>
+      <h4>OIK-GROUP</h4>
     </div>
     <v-spacer></v-spacer>
     <v-divider vertical></v-divider>

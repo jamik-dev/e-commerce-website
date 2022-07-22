@@ -259,7 +259,8 @@
         </v-col>
         <v-col cols="12" sm="12">
           <h6 class="text-center grey--text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nihil praesentium ipsam voluptatem officia eius? Nemo tenetur esse aspernatur repellat, beatae a accusamus magni alias voluptatum nostrum, odit quam numquam.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nihil praesentium ipsam voluptatem officia eius? Nemo tenetur esse aspernatur repellat, 
+            <br>beatae a accusamus magni alias voluptatum nostrum, odit quam numquam.
           </h6>
         </v-col>
         <v-col cols="12" sm="12">
@@ -281,22 +282,22 @@ export default {
       {
         text: "Home",
         disabled: false,
-        href: "breadcrumbs_home"
+        href: "/"
       },
       {
         text: "Catalog",
         disabled: false,
-        href: "breadcrumbs_catalog"
+        href: "catalog"
       },
       {
         text: "Men",
         disabled: false,
-        href: "breadcrumbs_men"
+        href: "men"
       },
       {
         text: "Shoes",
         disabled: false,
-        href: "breadcrumbs_shoes"
+        href: "shoes"
       }
     ],
     styles: [
